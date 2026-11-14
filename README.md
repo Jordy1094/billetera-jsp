@@ -16,6 +16,13 @@ Tiene que ser Tomcat 10.1 o superior. En Tomcat 9 no corre porque usa el paquete
 
 ## Cómo ejecutarlo
 
+Para descargar el proyecto:
+
+```
+git clone https://github.com/Jordy1094/billetera-jsp.git
+cd billetera-jsp
+```
+
 El archivo listo para Tomcat está en `dist/billetera-jsp.war`. Si no quieres compilar, empieza en el paso 2 con ese archivo.
 
 1. Compilar el proyecto:
