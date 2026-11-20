@@ -1,6 +1,6 @@
 # Billetera Digital - Caso 1 (Servlet + JSP)
 
-Proyecto de la T1 del curso Soluciones Web y Aplicaciones Distribuidas (UPN).
+Proyecto del curso Soluciones Web y Aplicaciones Distribuidas (UPN).
 
 Es una billetera sencilla hecha en Java sin frameworks. Muestra el saldo y el historial, y permite registrar recargas y gastos. La página se arma en el servidor y los datos se guardan en la sesión, así que se reinician al cerrar el navegador.
 
